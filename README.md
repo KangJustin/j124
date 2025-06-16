@@ -16,4 +16,4 @@ This will have a ~~strickthrough~~
 This is a chart I made in an earlier video lesson:
 
 
-! [This is a data wrapper chart] [iD4d9-2023-median-household-in-california-counties.png]
+! [This is a data wrapper chart] (iD4d9-2023-median-household-in-california-counties.png)
